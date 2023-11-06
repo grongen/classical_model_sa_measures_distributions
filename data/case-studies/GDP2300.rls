@@ -1,0 +1,11 @@
+    1          GrwCh  9.55731E+0000 uni                                                                                                                                       geomean growth rate % china 1980 - 2017 
+    2          GrwSA  6.04012E+0000 uni                                                                                                                                geomean growth rate (%) South Asia 1980 - 2017 
+    3         GrwSSA  3.14789E+0000 uni                                                                                                                        geomean growth rate (%) Sub Saharan Africa 1980 - 2017 
+    4          MADCh  2.11090E+0000 uni                                                                                                                             Mean Absolute Deviation wrt mean China  1980-2017 
+    5          MADSA  1.41020E+0000 uni                                                                                                                        Mean Absolute Deviation wrt mean South Asia  1980-2017 
+    6         MADSSA  1.94440E+0000 uni                                                                                                                Mean Absolute Deviation wrt mean Sub Saharan Africa  1980-2017 
+    7         CBOErr  1.29900E+0000 uni                                                                                                                              Congr Budget Office ave absolute error 1996-2015 
+    8         $StLIC  6.26939E+0001 uni                                                                                                                                      ave cost start business % GNIpp LIC 2018 
+    9         $StHIC  4.65763E+0000 uni                                                                                                                                      ave cost start business % GNIpp HIC 2018 
+   10         DyCLIC  6.64636E+0002 uni                                                                                                                                          ave # days enforce contract LIC 2018 
+   11         DyCHIC  6.23102E+0002 uni                                                                                                                                          ave # days enforce contract HIC 2018 
